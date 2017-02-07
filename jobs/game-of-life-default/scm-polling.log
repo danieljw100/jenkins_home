@@ -1,0 +1,8 @@
+Started on Feb 7, 2017 5:03:00 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision e18e29c8bd3e6560d0798b51eed2e6c4c39b1456 (refs/remotes/origin/master)
+ > /usr/bin/git ls-remote -h https://github.com/danieljw100/game-of-life # timeout=10
+Found 42 remote heads on https://github.com/danieljw100/game-of-life
+[poll] Latest remote head revision on refs/heads/master is: e18e29c8bd3e6560d0798b51eed2e6c4c39b1456 - already built by 1
+Done. Took 1.1 sec
+No changes
